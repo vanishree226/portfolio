@@ -1,0 +1,17 @@
+
+table{
+    text-align:center;
+    border:2px solid #000;
+}
+ 
+ 
+ th{
+    background-color:#333;
+    color:#fff;
+    padding:10px;
+    border:2px solid #000;
+ }
+ td{
+    padding:10px;
+    border:2px solid #000;
+ }
